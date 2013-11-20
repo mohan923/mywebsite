@@ -1,0 +1,12 @@
+
+auto: true
+server: true
+markdown: rdiscount
+pygments: true
+permalink: /:title
+
+name: "Myweb"
+description: "my first helloworld Jekyll website"
+
+
+url: "myweb.com"

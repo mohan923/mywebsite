@@ -1,0 +1,6 @@
+---
+layout: default
+title: Wing and a Prayer
+image: /img/wing.jpg
+---
+The wing of the AirBus I rode to England.
